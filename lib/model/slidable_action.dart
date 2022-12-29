@@ -1,0 +1,1 @@
+enum SlidableAction{modifier,supprimer}
